@@ -1,5 +1,5 @@
 const openapikey = "bba16a2689ade1949b15147c99f08b22";
-const coordinatesApi = `http://api.openweathermap.org/geo/1.0/direct?q=`;
+const coordinatesApi = `https://api.openweathermap.org/geo/1.0/direct?q=`;
 const weatherApi = `https://api.openweathermap.org/data/2.5/weather?`;
 
 export default class openAPI {
